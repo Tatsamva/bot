@@ -1,1 +1,3 @@
 pip install -r
+pip install --upgrade pip
+
